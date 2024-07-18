@@ -1,0 +1,8 @@
+flask
+spotipy
+google-api-python-client
+pytube
+moviepy
+flask-cors
+requests
+yt-dlp
