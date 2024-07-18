@@ -1,7 +1,9 @@
 Spotify Playlist to MP3 Downloader
+
 This application allows you to download Spotify playlists by searching for the songs on YouTube and downloading them as MP3 files. The backend is built with Flask, and the frontend is built with React.
 
-Features
+Features :
+
 Fetch playlist details from Spotify.
 Search for songs on YouTube.
 Download songs as MP3 files.
